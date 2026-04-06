@@ -1,3 +1,3 @@
 # Fã Clube das Winx
 
-Acesse pelo [link](https://h-squaredev.github.io/fanclube-winx/).
+Descubra tudo sobre as fadinhas [clicando aqui](https://h-squaredev.github.io/fanclube-winx/).
