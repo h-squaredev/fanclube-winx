@@ -1,0 +1,75 @@
+1º Trabalho - 30/04
+Desenvolvimento Web — “Wiki Interativa”
+Desenvolver um site no formato de wiki temática, utilizando HTML, CSS e JavaScript, com foco em organização de conteúdo, estética e interatividade.
+
+Deverá criar uma página que funcione como uma mini enciclopédia digital.
+
+Requisitos obrigatórios:
+Estrutura HTML
+O site deve conter obrigatoriamente:
+
+Uso de tags semânticas-------------------------------------
+
+<header>, <main>, <section>, <article>, <footer>
+
+Títulos hierárquicos (<h1> até <h3>)
+
+Parágrafos (<p>)
+
+Listas-----------------------------------------------------
+
+Ordenadas (<ol>)
+
+Não ordenadas (<ul>)
+
+Links (<a>)
+
+Imagens (<img>)
+
+Tabela (<table>)
+
+Divisões com <div> e/ou <span>
+
+Estilização com CSS========================================
+
+O site deve apresentar-------------------------------------
+
+Layout organizado e legível
+
+Uso de-----------------------------------------------------
+
+Cores (background, texto)
+
+Tipografia (font-family, tamanho)
+
+Espaçamento (margin, padding)
+
+Aplicação de-----------------------------------------------
+
+hover
+
+transition
+
+Uso de pelo menos------------------------------------------
+
+Classes (.classe)
+
+ID (#id)
+
+Layout com
+
+Flexbox ou Grid
+
+Interatividade com JavaScript
+
+O site deve conter pelo menos 2 interações, como:
+
+Evento de clique (addEventListener)
+
+Alteração de conteúdo (textContent ou innerHTML)
+
+Mudança de estilo dinâmica
+
+Criação ou remoção de elementos
+
+Alertas, animações ou efeitos visuais
