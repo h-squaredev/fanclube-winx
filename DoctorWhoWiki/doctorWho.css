@@ -1,4 +1,4 @@
-/* Definicao de Variaveis de Tema (Cores e Fontes) */
+/* Definicao de Variaveis de Tema*/
 :root {
     --bg-color: #0d1117;
     --text-color: #c9d1d9;
@@ -73,9 +73,9 @@ main {
 .container-3d iframe {
     width: 100%;
     height: 350px;
-    border-radius: 8px;
+    /* border-radius: 8px;
     border: 1px solid var(--primary-color);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); */
 }
 
 .sketchfab {
