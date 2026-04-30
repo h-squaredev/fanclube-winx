@@ -34,5 +34,5 @@ decryptButton.addEventListener('click', function() {
     classifiedText.classList.remove('hidden');
     
     // Requisito: Remoção/Ocultacao de elemento (esconde o botao apos clicar)
-    decryptbutton.style.display = 'none';
+    decryptButton.style.display = 'none';
 });
